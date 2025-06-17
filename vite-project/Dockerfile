@@ -6,5 +6,5 @@ RUN npm install
 
 Expose 5173
 
-CMD : ["npm", "run" , "dev"]
+CMD ["npm", "run" , "dev"]
 
